@@ -7,6 +7,10 @@
     margin: 20px auto;
     border-radius: 4px;
 }
+
+.card .title {
+    color: wheat;
+}
   
 .card button {
     background-color: #555;

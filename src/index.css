@@ -14,10 +14,6 @@ code {
     monospace;
 }
 
- h2, p {
-  color:#333;
-} 
-
 button {
   background-color: #ff7300;
   padding: 5px 8px;
