@@ -5,6 +5,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #333;
+  color: wheat;
 }
 
 code {
@@ -12,9 +14,9 @@ code {
     monospace;
 }
 
-h2, p {
+ h2, p {
   color:#333;
-}
+} 
 
 button {
   background-color: #ff7300;
